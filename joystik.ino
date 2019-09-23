@@ -1,3 +1,6 @@
+//to pair two blutooth 
+//https://www.youtube.com/watch?v=BXXAcFOTnBo
+
 int value = 0;
 int value1 = 0;
 int value2 = 0;
